@@ -1,6 +1,8 @@
 # SLAM and Perception System Development for an Intelligent Wheeled Robot
 This project involves the development of software for an intelligent mobile robot using the ZeroROS robot middleware and the Webots simulation environment. The primary focus was on building a robust perception system and implementing simultaneous localization and mapping (SLAM) algorithms.
 
+![maxresdefault](https://github.com/user-attachments/assets/d639fc2d-f2f8-428a-b47d-c76bc0a8a63c)
+
 Key accomplishments include:
 - State-Space Control: Implemented a state-space controller to ensure precise and stable robot motion.
 - Probabilistic Localization: Developed an Extended Kalman Filter (EKF) and Particle Filter for accurate probabilistic localization.
